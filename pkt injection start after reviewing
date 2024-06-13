@@ -1,0 +1,1 @@
+airodump-ng -c <"channel no"> --bssid<"bssid no"> -w psk wlan0
