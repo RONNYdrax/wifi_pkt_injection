@@ -1,0 +1,8 @@
+sudo su
+sudo apt update
+sudo apt upgarde
+ifconfig
+iwconfig
+airmon-ng
+airmon-ng start wlan 0
+airodump-ng wlan 0
